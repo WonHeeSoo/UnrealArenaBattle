@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\unrealarenabattle\\arenabattle\\source\\arenabattle\\arenabattle.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\unrealarenabattle\\arenabattle\\intermediate\\build\\win64\\x64\\arenabattleeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\unrealarenabattle\\arenabattle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\arenabattle\\definitions.arenabattle.h",
+            "d:\\dev\\unrealarenabattle\\arenabattle\\source\\arenabattle\\arenabattle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

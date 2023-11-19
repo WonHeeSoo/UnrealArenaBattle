@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ArenaBattle.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Dev\UnrealArenaBattle\ArenaBattle\Intermediate\Build\Win64\x64\ArenaBattleEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\Dev\UnrealArenaBattle\ArenaBattle\Intermediate\Build\Win64\x64\UnrealEditor\Development\ArenaBattle\ArenaBattle.cpp.obj"
+"D:\Dev\UnrealArenaBattle\ArenaBattle\Intermediate\Build\Win64\x64\UnrealEditor\Development\ArenaBattle\Default.rc2.res"
+/OUT:"D:\Dev\UnrealArenaBattle\ArenaBattle\Intermediate\Build\Win64\x64\UnrealEditor\Development\ArenaBattle\UnrealEditor-ArenaBattle.lib"
